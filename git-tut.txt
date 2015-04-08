@@ -1,0 +1,5 @@
+1. git status: Will display changes to be add or update in github.
+2. git add: to add new files/folder to github
+3. git commit -a -m "Message"
+4. git push.
+   
